@@ -24,5 +24,6 @@ public class Main {
         char c2 = 'j';
         char c3 = 'v';
         System.out.println("" + c2 + c1 + c3 + c1);
+
     }
-}
+} 
